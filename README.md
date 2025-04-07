@@ -15,3 +15,25 @@ This notebook is focused on building and evaluating an image classification mode
 *   Image Preprocessing: Includes tools for loading and preparing images using tensorflow.keras.preprocessing.image.
 
 So this notebook is primarily for training a model from scratch using the Xception architecture and evaluating its performance
+
+# 📊 pridect.ipynb
+Title: (No markdown title yet — starts with code)
+
+### Purpose:
+This notebook seems focused on loading a pre-trained model and making predictions on a test dataset.
+
+### Key Components:
+
+*  Model Loading: Uses model_from_json to load a saved Keras model architecture.
+
+*  Evaluation Tools: Imports from sklearn.metrics to calculate precision, recall, F1-score, and classification report.
+
+*  Image Preprocessing and Prediction: Loads test images using ImageDataGenerator and prepares the test dataset.
+
+So this notebook is primarily for loading a trained model and running predictions on a test set to evaluate performance.
+
+
+# 🧩 Summary of the Workflow:
+### Inception.ipynb is for training the model.
+
+### pridect.ipynb is for using the trained model to make predictions and evaluate it.
