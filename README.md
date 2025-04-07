@@ -1,4 +1,4 @@
-# Inception-model-fine-tuning-
+# Keras-Inception-model-fine-tuning-
 Fine-tun Inception model code with testing code 
 🧠 Inception.ipynb
 ### Title: Training and Evaluating Xception Model
