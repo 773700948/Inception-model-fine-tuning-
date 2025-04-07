@@ -37,3 +37,6 @@ So this notebook is primarily for loading a trained model and running prediction
 ### Inception.ipynb is for training the model.
 
 ### pridect.ipynb is for using the trained model to make predictions and evaluate it.
+
+# Dataset used to train the models:
+### https://www.kaggle.com/datasets/rehabalsaby/yemeni-sign-language
